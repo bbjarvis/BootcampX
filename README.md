@@ -6,7 +6,7 @@ data like assignment completion and the effectiveness of assistance requests.
 ## Final Product
 
 We can model these entities in an Entity Relation Diagram (ERD):
-!["ERD"](https://github.com/bbjarvis/BootcampX/blob/master/docs/ERD.png)
+!["ERD"](https://github.com/bbjarvis/BootcampX/blob/master/docs/ERD2.png)
 
 Example queries:
 - Selects:
